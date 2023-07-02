@@ -1,0 +1,1 @@
+A School analysis that takes into account budget, number of student body, math scores, reading scores, as well as overall score. The analysis is used to see which schools perform best and potentially why they do so.
